@@ -68,7 +68,7 @@
 			//These are to initialze the php values.
 			//We dont need this once the php values are initialzed.
 			
-			/*phpVariables.player_name_0 = "John";
+			phpVariables.player_name_0 = "John";
 			phpVariables.player_name_1 = "Matt";
 			phpVariables.player_name_2 = "Jack";
 			phpVariables.player_name_3 = "Bob";
@@ -78,7 +78,7 @@
 			phpVariables.player_score_1 = "-300";
 			phpVariables.player_score_2 = "-300";
 			phpVariables.player_score_3 = "-300";
-			phpVariables.player_score_4 = "-300";*/
+			phpVariables.player_score_4 = "-300";
 			
 			//PHP file at the host location
 			phpRequest = new URLRequest("http://santosantonio.com/animish/Leader.php");
